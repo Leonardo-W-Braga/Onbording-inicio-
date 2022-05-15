@@ -69,19 +69,12 @@
 }
 
 .frase-pag3{
-    font-family: 'Poppins', sans-serif;
     position: absolute;
     width: 189px;
     height: 31px;
     left: 98px;
     top: 341px;
-    font-style: normal;
-    font-size: 24px;
-    line-height: 128.91%;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    color: #000000;
+  
 }
 
 .sub-frase-pag3{
@@ -91,6 +84,24 @@
     height: 46px;
     left: 38px;
     top: 398px;
+
+        
+}
+
+.frase-pag3 p{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 128.91%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+    font-weight: 600;
+}
+
+.sub-frase-pag3{
+    font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
@@ -99,7 +110,6 @@
     align-items: center;
     text-align: center;
     color: #000000;
-        
 }
 
 .pontos{
