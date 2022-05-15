@@ -68,6 +68,47 @@
 
 }
 
+.frase-pag2{
+    position: absolute;
+    width: 282px;
+    height: 31px;
+    left: 50px;
+    top: 338px;
+}
+
+.frase-pag2 p{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 128.91%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+
+.sub-frase-pag2{
+    position: absolute;
+    width: 299px;
+    height: 46px;
+    left: 37px;
+    top: 395px;
+}
+
+.sub-frase-pag2 p{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 128.91%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+
+}
 .frase-pag3{
     position: absolute;
     width: 189px;
