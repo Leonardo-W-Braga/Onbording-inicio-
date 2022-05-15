@@ -8,6 +8,14 @@
     bottom: 478px;
 }
 
+.imagem2{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 41px;
+    top: 21px;
+}
+
 .frase{
     position: absolute;
     width: 282px;
